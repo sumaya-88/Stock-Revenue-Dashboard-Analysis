@@ -1,6 +1,7 @@
 # Stock-Revenue-Dashboard-Analysis
 
-📈 Final project for IBM Data Analysis with Python (Coursera) — extracting and visualizing stock & revenue data for Tesla and GameStop using yfinance, web scraping, and Matplotlib.
+📈 Final project for IBM Python Project for Data Science - Coursera
+ (Coursera) — extracting and visualizing stock & revenue data for Tesla and GameStop using yfinance, web scraping, and Matplotlib.
 
 ---
 

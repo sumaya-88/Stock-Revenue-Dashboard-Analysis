@@ -54,4 +54,4 @@ Each dashboard displays:
 
 ## 🏆 Certificate
 
-IBM Data Analysis with Python - Coursera
+Python Project for Data Science - Coursera
